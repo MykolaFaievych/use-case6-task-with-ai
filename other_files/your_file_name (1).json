@@ -1,0 +1,1 @@
+{"volumes": [], "snapshots": [{"SnapshotId": "snap-0e3a5bd36b16aea05", "VolumeSize": 8, "Encrypted": false}, {"SnapshotId": "snap-0eb4b53def11e4fa8", "VolumeSize": 8, "Encrypted": false}, {"SnapshotId": "snap-038aeeb0bdbe4b7f1", "VolumeSize": 8, "Encrypted": false}]}
